@@ -1,11 +1,4 @@
-<p>
-    This is Frontend.
-    <br>
-    ![01](https://user-images.githubusercontent.com/42699234/166107319-c9ace40c-2c9a-4f21-9932-cdb9654c7e2e.PNG)
-![02](https://user-images.githubusercontent.com/42699234/166107325-ca9fbd90-5cca-45dd-aab4-b429635c331b.PNG)
-    
-<br>
-<br>
+
 <br>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
